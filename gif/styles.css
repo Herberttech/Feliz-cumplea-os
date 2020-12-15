@@ -1,0 +1,12 @@
+{
+  margin: 0;
+  padding: 0;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-image: url(https://media.giphy.com/media/ph2kPHfAXJ41xI2Jb9/giphy.gif); 
+}
